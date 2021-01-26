@@ -17,17 +17,17 @@ class Navbar extends React.Component {
             <nav className="navbar">
                 <div className="nav-center">
                     <div className="nav-header">
-                        <Link to="/"><img src={logo} alt="Beach Resort"/></Link>
+                        <Link to="/praveenorugantitech-beach-resort-reactjs"><img src={logo} alt="Beach Resort"/></Link>
                         <button
-                            onClick={this.handleToggle} 
-                            type="button" 
+                            onClick={this.handleToggle}
+                            type="button"
                             className="nav-btn">
                             <FaAlignRight className="nav-icon" />
                         </button>
                     </div>
                     <ul className={this.state.isOpen ? "nav-links show-nav" : "nav-links"}>
-                        <li><Link to="/" >Home</Link></li>
-                        <li><Link to="/rooms" >Rooms</Link></li>
+                        <li><Link to="/praveenorugantitech-beach-resort-reactjs" >Home</Link></li>
+                        <li><Link to="/praveenorugantitech-beach-resort-reactjs/rooms" >Rooms</Link></li>
                     </ul>
                 </div>
             </nav>

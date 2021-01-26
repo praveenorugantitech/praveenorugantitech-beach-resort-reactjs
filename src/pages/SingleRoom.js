@@ -27,7 +27,7 @@ class SingleRoom extends Component {
       return (
         <div className="error">
           <h3>no such room could</h3>
-          <Link to="/rooms" className="btn-primary">
+          <Link to="/praveenorugantitech-beach-resort-reactjs/rooms" className="btn-primary">
             back to rooms
           </Link>
         </div>
@@ -52,7 +52,7 @@ class SingleRoom extends Component {
       <React.Fragment>
         <StyledHero img={img_0 || this.state.defaultIMG}>
           <Components.Banner title={`${name} room`}>
-            <Link to="/rooms" className="btn-primary">
+            <Link to="/praveenorugantitech-beach-resort-reactjs/rooms" className="btn-primary">
               back to rooms
             </Link>
           </Components.Banner>

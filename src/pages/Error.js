@@ -7,7 +7,7 @@ function Error() {
         <>
             <Components.Hero>
                 <Components.Banner title="404" subtitle="page not found">
-                    <Link to="/" className="btn-primary">return home</Link>
+                    <Link to="/praveenorugantitech-beach-resort-reactjs" className="btn-primary">return home</Link>
                 </Components.Banner>
             </Components.Hero>
         </>

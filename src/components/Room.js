@@ -4,7 +4,7 @@ import PropTypes from 'prop-types'
 import defaultIMG from '../assets/images/room-1.jpeg'
 
 function Room({room}) {
-    const {images, price, slug, name} = room 
+    const {images, price, slug, name} = room
 
     return (
         <article className="room">
@@ -14,7 +14,7 @@ function Room({room}) {
                     <h6>${price}</h6>
                     <p>per night</p>
                 </div>
-                <Link to={`/rooms/${slug}`} className="btn-primary room-link">features</Link>
+                <Link to={`/praveenorugantitech-beach-resort-reactjs/rooms/${slug}`} className="btn-primary room-link">features</Link>
             </div>
             <p className="room-info">{name}</p>
         </article>
