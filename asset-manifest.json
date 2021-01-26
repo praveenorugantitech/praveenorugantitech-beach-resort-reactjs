@@ -1,0 +1,38 @@
+{
+  "files": {
+    "main.css": "/praveenorugantitech-beach-resort-reactjs/static/css/main.0f38d881.chunk.css",
+    "main.js": "/praveenorugantitech-beach-resort-reactjs/static/js/main.2ef25629.chunk.js",
+    "main.js.map": "/praveenorugantitech-beach-resort-reactjs/static/js/main.2ef25629.chunk.js.map",
+    "runtime-main.js": "/praveenorugantitech-beach-resort-reactjs/static/js/runtime-main.6874cad3.js",
+    "runtime-main.js.map": "/praveenorugantitech-beach-resort-reactjs/static/js/runtime-main.6874cad3.js.map",
+    "static/js/2.e7fa01de.chunk.js": "/praveenorugantitech-beach-resort-reactjs/static/js/2.e7fa01de.chunk.js",
+    "static/js/2.e7fa01de.chunk.js.map": "/praveenorugantitech-beach-resort-reactjs/static/js/2.e7fa01de.chunk.js.map",
+    "index.html": "/praveenorugantitech-beach-resort-reactjs/index.html",
+    "static/css/main.0f38d881.chunk.css.map": "/praveenorugantitech-beach-resort-reactjs/static/css/main.0f38d881.chunk.css.map",
+    "static/js/2.e7fa01de.chunk.js.LICENSE.txt": "/praveenorugantitech-beach-resort-reactjs/static/js/2.e7fa01de.chunk.js.LICENSE.txt",
+    "static/media/App.css": "/praveenorugantitech-beach-resort-reactjs/static/media/room-2.48c60181.jpeg",
+    "static/media/details-1.c4851740.jpeg": "/praveenorugantitech-beach-resort-reactjs/static/media/details-1.c4851740.jpeg",
+    "static/media/details-2.dc89255d.jpeg": "/praveenorugantitech-beach-resort-reactjs/static/media/details-2.dc89255d.jpeg",
+    "static/media/details-3.f525a3c8.jpeg": "/praveenorugantitech-beach-resort-reactjs/static/media/details-3.f525a3c8.jpeg",
+    "static/media/details-4.f2053654.jpeg": "/praveenorugantitech-beach-resort-reactjs/static/media/details-4.f2053654.jpeg",
+    "static/media/loading-arrow.dd29210f.gif": "/praveenorugantitech-beach-resort-reactjs/static/media/loading-arrow.dd29210f.gif",
+    "static/media/logo.87947b58.svg": "/praveenorugantitech-beach-resort-reactjs/static/media/logo.87947b58.svg",
+    "static/media/room-1.05b90599.jpeg": "/praveenorugantitech-beach-resort-reactjs/static/media/room-1.05b90599.jpeg",
+    "static/media/room-10.681615dc.jpeg": "/praveenorugantitech-beach-resort-reactjs/static/media/room-10.681615dc.jpeg",
+    "static/media/room-11.1605f19e.jpeg": "/praveenorugantitech-beach-resort-reactjs/static/media/room-11.1605f19e.jpeg",
+    "static/media/room-12.7dee4920.jpeg": "/praveenorugantitech-beach-resort-reactjs/static/media/room-12.7dee4920.jpeg",
+    "static/media/room-3.92fc5b83.jpeg": "/praveenorugantitech-beach-resort-reactjs/static/media/room-3.92fc5b83.jpeg",
+    "static/media/room-4.10d2e64a.jpeg": "/praveenorugantitech-beach-resort-reactjs/static/media/room-4.10d2e64a.jpeg",
+    "static/media/room-5.a7c5e078.jpeg": "/praveenorugantitech-beach-resort-reactjs/static/media/room-5.a7c5e078.jpeg",
+    "static/media/room-6.3697aea3.jpeg": "/praveenorugantitech-beach-resort-reactjs/static/media/room-6.3697aea3.jpeg",
+    "static/media/room-7.d2c011f0.jpeg": "/praveenorugantitech-beach-resort-reactjs/static/media/room-7.d2c011f0.jpeg",
+    "static/media/room-8.5b658df9.jpeg": "/praveenorugantitech-beach-resort-reactjs/static/media/room-8.5b658df9.jpeg",
+    "static/media/room-9.18aabe9f.jpeg": "/praveenorugantitech-beach-resort-reactjs/static/media/room-9.18aabe9f.jpeg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.6874cad3.js",
+    "static/js/2.e7fa01de.chunk.js",
+    "static/css/main.0f38d881.chunk.css",
+    "static/js/main.2ef25629.chunk.js"
+  ]
+}
